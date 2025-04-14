@@ -36,3 +36,50 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+
+nav:
+  - Introduction: index.md
+  - Why Patterns?: why_patterns.md
+  - Creational Patterns:
+      - Abstract Factory: creational_patterns/abstract_factory.md
+      - Builder: creational_patterns/builder.md
+
+      - Factory Method: creational_patterns/factory_method.md
+      - Prototype: creational_patterns/prototype.md
+      - Singleton: creational_patterns/singleton.md
+  - Structural Patterns:
+      - Adapter: structural_patterns/adapter.md
+      - Bridge: structural_patterns/bridge.md
+      - Composite: structural_patterns/composite.md
+      - Decorator: structural_patterns/decorator.md
+      - Facade: structural_patterns/facade.md
+      - Flyweight: structural_patterns/flyweight.md
+      - Proxy: structural_patterns/proxy.md
+  - Behavioral Patterns:
+      - Chain of Responsibility: behavioral_patterns/chain_of_responsibility.md
+      - Command: behavioral_patterns/command.md
+      - Iterator: behavioral_patterns/iterator.md
+      - Interpreter: behavioral_patterns/interpreter.md
+      - Mediator: behavioral_patterns/mediator.md
+      - Memento: behavioral_patterns/memento.md
+      - Observer: behavioral_patterns/observer.md
+      - State: behavioral_patterns/state.md
+      - Strategy: behavioral_patterns/strategy.md
+      - Template Method: behavioral_patterns/template_method.md
+      - Visitor: behavioral_patterns/visitor.md
+  - Additional Resources:
+      - Books: additional_resources/books.md
+      - Articles: additional_resources/articles.md
+      - Videos: additional_resources/videos.md
+  - Tools:
+      - UML Diagrams: tools/uml_diagrams.md
+      - Design Pattern Generators: tools/design_pattern_generators.md
+      - Code Snippets: tools/code_snippets.md
+      - IDE Plugins: tools/ide_plugins.md
+      - Online Resources: tools/online_resources.md
+  - Examples:
+      - Java: examples/java.md
+      - Python: examples/python.md
+      - C++: examples/c++.md
+      - JavaScript: examples/javascript.md
+      - C#: examples/csharp.md
